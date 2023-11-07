@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akram Hamdi</h1>
-<h3 align="center">Fullstack Web Developer From Tunisia</h3>
+<h3 align="center">Fullstack Developer From Tunisia</h3>
 
 - 🔭 I’m currently **a third-year student specializing in computer system development**
 
