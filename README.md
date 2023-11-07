@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **mobile and cross-platform development**
 
-- 👨‍💻 All of my projects are available at [A-Hamdi1](A-Hamdi1)
+- 👨‍💻 All of my projects are available at [Github](A-Hamdi1)
 
 - 📫 How to reach me **hamdi.akram.dev@gmail.com**
 
