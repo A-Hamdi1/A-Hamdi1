@@ -5,7 +5,7 @@
 
 -  🌱 I’m currently learning more about **DevOps practices, scalable system architecture, and advanced Machine Learning integration** 
 
--  👨‍💻 All of my projects are available at [Github](https://github.com/A-Hamdi1) 
+-  👨‍💻 All of my projects are available at [Github](https://github.com/A-Hamdi1?tab=repositories) 
 
 - 📫 How to reach me **hamdi.akram.dev@gmail.com**
 
