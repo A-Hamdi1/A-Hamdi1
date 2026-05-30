@@ -1,97 +1,96 @@
-<h1 align="center">Hi 👋, I'm Akram Hamdi</h1>
-<h3 align="center">Software Engineer From Tunisia</h3>
+# Hi 👋, I'm Akram Hamdi
 
--  🔭 I’m currently **a Software Engineer specializing in Flutter, Dart, and Backend/DevOps practices to build innovative, high-quality software.** 
-
--  🌱 I’m currently learning more about **DevOps practices, scalable system architecture, and advanced Machine Learning integration** 
-
--  👨‍💻 All of my projects are available at [Github](https://github.com/A-Hamdi1?tab=repositories) 
-
-- 📫 How to reach me **hamdi.akram.dev@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hamdi-akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdi-akram" height="30" width="40" /></a>
-<a href="https://twitter.com/akram_hamdi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akram_hamdi_dev" height="30" width="40" /></a>
-<a href="https://fb.com/akram.hamdi.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akram.hamdi.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/akram.hamdi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akram.hamdi.1" height="30" width="40" /></a>
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+**Full-Stack Software Engineer · AI/ML Enthusiast · Tunisia 🇹🇳**
 
 ---
 
-<h4 align="left">💻 Mobile & Frontend Development</h4>
+## 👨‍💻 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" title="Flutter"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" title="Dart"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" title="Angular"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" title="TypeScript"/>
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM logo" title="NPM"/>
-</div>
-
+- 🎓 Professional Master's graduate in Software Engineering & Information Systems
+- 💼 Full-Stack Developer focused on web, mobile, and AI-powered applications  
+- 🚀 Creator of **Coach Commercial**, an AI-powered sales coaching ecosystem
+- 🤖 Passionate about **AI-powered systems**, **scalable backends**, **clean architecture**, **DevOps**  
+- 📈 Currently improving my skills in system design, DevOps practices, and cloud-ready architectures  
+- 👨‍💻 Portfolio: https://akramhamdi.me
+- 📧 Contact: **hamdi.akram.dev@gmail.com**
+- 🔗 LinkedIn: https://linkedin.com/in/hamdi-akram
 
 ---
 
-<h4 align="left">⚙️ Backend Development & Languages</h4>
+## 🔧 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" title="Node.js"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" title="Express"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" title="Laravel"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" title="Spring Boot"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python"/>
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" title="Flask"/>
-</div>
+**Mobile & Frontend**  
+![Mobile & Frontend](https://skillicons.dev/icons?i=flutter,dart,ts,js,html,css)
+
+**Backend**  
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,fastapi,laravel)
+
+**Databases & Backend Services**  
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis)
+
+**DevOps & Tools**  
+![DevOps](https://skillicons.dev/icons?i=docker,terraform,git,github,linux)
 
 ---
 
-<h4 align="left">☁️ Cloud, DevOps & Databases</h4>
+## 📌 Highlighted Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" title="Docker"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" title="Terraform"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" title="Firebase"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions logo" title="GitHub Actions"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" title="Jenkins"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" title="MongoDB"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL / SQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" title="Redis"/>
-</div>
+
+
+### 🎙️ Coach Commercial — AI-Powered Sales Coaching Platform
+
+
+
+Full-stack AI platform for sales coaching, call analysis, and knowledge assistance.
+
+- Built **SalesIQ**, a web dashboard for managing users, sales representatives, contacts, calendars, evaluations, and analytics.
+- Built **CoachMate**, a mobile app for commercial users to access coaching features and performance insights.
+- Developed a microservices backend with authentication, user management, document management, catalog services, and API Gateway.
+- Implemented an AI evaluation pipeline for uploaded sales calls, including audio processing, speech-to-text, diarization, scoring, and performance feedback.
+- Integrated a RAG assistant with document ingestion, semantic search, and chatbot support.
+- Containerized the full platform with Docker for local and production-ready deployment.
+
+**Stack:** Flutter (GetX) • Dart • Next.js (Zustand) • TypeScript • NestJS • FastAPI • Celery • PaddleOCR • Redis • PostgreSQL • Prisma • Qdrant • Gemini API • Ollama (Qwen2.5-7B-Instruct) • Docker
+
+---
+### 📱 InstaFame — Social Media Platform
+
+
+
+Social media platform with mobile app, admin dashboard, and real-time backend.
+
+- Built a Flutter mobile app with authentication, profile management, posts, reels, stories, and user search.
+- Implemented likes, comments, follows, gifts, coins, reports, and real-time chat.
+- Developed job offers, job requests, verification requests, and payment flows.
+- Built an admin/moderator dashboard for users, reports, verification requests, moderators, statistics, and monetization analytics.
+
+**Stack:** Flutter (GetX) • Dart • Node.js • Express • MongoDB • Socket.IO • OneSignal • Firebase
 
 ---
 
-<h4 align="left">🤝 Tools & Methodologies</h4>
+### 🩺 MediQuery — Medical RAG Chatbot
+Developed an AI-driven medical chatbot using Llama2 and Retrieval-Augmented Generation for precise medical question answering with document ingestion, semantic search, and PDF processing.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" title="Git"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" title="Jira"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="Agile/Scrum logo" title="Agile (Scrum)"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="CI/CD logo" title="CI/CD Pipelines"/>
-</div>
+**Stack:** Python • Llama2 • LangChain • FAISS • Chainlit • RAG
+
+---
+
+### 🤖 ISET Chatbot — AI-Powered Academic Assistant
+Developed an AI chatbot for ISET Sfax to help students with academic and administrative questions using NLP, semantic embeddings, multilingual support, voice input, document access, and analytics dashboards.
+
+**Stack:** Python • Flask • React • NLP • Machine Learning
+
+---
+### 📚 BookWise — AI-Powered Library Management Mobile App
+Developed an intelligent Flutter mobile application for modern library management with OCR, document scanning, barcode scanning, translation services, and a smart FAQ chat assistant.
+
+**Stack:** Flutter • Dart • Firebase • ML Kit • AI/ML
+
+---
+
+## 💡 What I Care About
+- Clean Architecture and maintainable codebases
+- Scalable backend systems and RESTful APIs
+- Mobile-first and user-centered applications
+- DevOps practices, Dockerized deployments, and CI/CD pipelines
+- AI-powered features that solve real-world problems
